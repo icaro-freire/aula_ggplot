@@ -3,13 +3,13 @@ title: "Algo (muito rápido) sobre o ggplot2"
 author: "Ícaro Vidal Freire"
 date: "Estat (CFP/UFRB)"
 output:
-  html_document:
-    toc: yes
-    df_print: paged
   html_notebook:
     toc: yes
     toc_float: yes
     highlight: tango
+  html_document:
+    toc: yes
+    df_print: paged
 ---
 
 ```{r setup, echo=FALSE}
